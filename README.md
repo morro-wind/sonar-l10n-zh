@@ -11,7 +11,7 @@ compatibility Matrix:
 
 这是SonarQube的汉化包
 
-可在跟目录下使用如下命令`mvn package`构建jar包，将生成的jar包放到extensions/plugins/目录，重启sonarqube即可汉化
+可在sonar-l10n-zh目录下使用如下命令`mvn package`构建jar包，将生成的jar包放到extensions/plugins/目录，重启sonarqube即可汉化
 
 兼容列表如下：
 
